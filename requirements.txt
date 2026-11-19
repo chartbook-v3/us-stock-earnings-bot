@@ -1,0 +1,7 @@
+curl-cffi
+beautifulsoup4
+lxml
+pydantic
+google-genai
+urllib3
+tzdata
