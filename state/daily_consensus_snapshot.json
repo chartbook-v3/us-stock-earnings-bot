@@ -1,0 +1,1578 @@
+{
+  "2026-11-18": {
+    "et_date": "2026-11-18",
+    "built_at_kst": "2026-11-19 14:49:27",
+    "total_matched": 18,
+    "with_consensus": 18,
+    "items": {
+      "PANW": {
+        "ticker": "PANW",
+        "name": "Palo Alto Networks, Inc.",
+        "session": "AMC",
+        "market_cap_usd": 253136273000.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 0.52,
+        "nasdaq_num_ests": 16,
+        "trend": {
+          "0q": {
+            "end_date": "2026-10-31",
+            "eps_est": 0.97032,
+            "num_eps_analysts": 44,
+            "rev_est_musd": 3307.48517,
+            "num_rev_analysts": 45
+          },
+          "+1q": {
+            "end_date": "2027-01-31",
+            "eps_est": 0.38342,
+            "num_eps_analysts": 14,
+            "rev_est_musd": 3421.92328,
+            "num_rev_analysts": 44
+          },
+          "0y": {
+            "end_date": "2027-07-31",
+            "eps_est": 4.19128,
+            "num_eps_analysts": 32,
+            "rev_est_musd": 14174.8126,
+            "num_rev_analysts": 51
+          },
+          "+1y": {
+            "end_date": "2028-07-31",
+            "eps_est": 2.12612,
+            "num_eps_analysts": 17,
+            "rev_est_musd": 16223.06216,
+            "num_rev_analysts": 47
+          }
+        },
+        "has_consensus": true
+      },
+      "P": {
+        "ticker": "P",
+        "name": "Everpure, Inc.",
+        "session": "AMC",
+        "market_cap_usd": 33919201300.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 0.28,
+        "nasdaq_num_ests": 8,
+        "trend": {
+          "0q": {
+            "end_date": "2026-10-31",
+            "eps_est": 0.77584,
+            "num_eps_analysts": 19,
+            "rev_est_musd": 1334.6942,
+            "num_rev_analysts": 17
+          },
+          "+1q": {
+            "end_date": "2027-01-31",
+            "eps_est": 0.85112,
+            "num_eps_analysts": 19,
+            "rev_est_musd": 1486.45294,
+            "num_rev_analysts": 17
+          },
+          "0y": {
+            "end_date": "2027-01-31",
+            "eps_est": 2.79782,
+            "num_eps_analysts": 19,
+            "rev_est_musd": 5062.18972,
+            "num_rev_analysts": 18
+          },
+          "+1y": {
+            "end_date": "2028-01-31",
+            "eps_est": 4.21805,
+            "num_eps_analysts": 19,
+            "rev_est_musd": 7037.11329,
+            "num_rev_analysts": 18
+          }
+        },
+        "has_consensus": true
+      },
+      "TJX": {
+        "ticker": "TJX",
+        "name": "TJX Companies, Inc. (The)",
+        "session": "BMO",
+        "market_cap_usd": 142831632000.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 1.33,
+        "nasdaq_num_ests": 7,
+        "trend": {
+          "0q": {
+            "end_date": "2027-01-31",
+            "eps_est": 1.48158,
+            "num_eps_analysts": 16,
+            "rev_est_musd": 18622.56219,
+            "num_rev_analysts": 15
+          },
+          "+1q": {
+            "end_date": "2027-04-30",
+            "eps_est": 1.2415,
+            "num_eps_analysts": 10,
+            "rev_est_musd": 15104.28823,
+            "num_rev_analysts": 8
+          },
+          "0y": {
+            "end_date": "2027-01-31",
+            "eps_est": 5.20355,
+            "num_eps_analysts": 11,
+            "rev_est_musd": 64006.5031,
+            "num_rev_analysts": 10
+          },
+          "+1y": {
+            "end_date": "2028-01-31",
+            "eps_est": 5.73665,
+            "num_eps_analysts": 20,
+            "rev_est_musd": 67969.135259,
+            "num_rev_analysts": 20
+          }
+        },
+        "has_consensus": true
+      },
+      "UGI": {
+        "ticker": "UGI",
+        "name": "UGI Corporation",
+        "session": "AMC",
+        "market_cap_usd": 8028546600.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": -0.32,
+        "nasdaq_num_ests": 1,
+        "trend": {
+          "0q": {
+            "end_date": "2026-12-31",
+            "eps_est": 1.39333,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 0.0,
+            "num_rev_analysts": 0
+          },
+          "+1q": {
+            "end_date": "2027-03-31",
+            "eps_est": 2.35333,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 0.0,
+            "num_rev_analysts": 0
+          },
+          "0y": {
+            "end_date": "2027-09-30",
+            "eps_est": 3.19333,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 7732.66667,
+            "num_rev_analysts": 3
+          },
+          "+1y": {
+            "end_date": "2028-09-30",
+            "eps_est": 3.45667,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 7982.0,
+            "num_rev_analysts": 3
+          }
+        },
+        "has_consensus": true
+      },
+      "TGT": {
+        "ticker": "TGT",
+        "name": "Target Corporation",
+        "session": "BMO",
+        "market_cap_usd": 72473960000.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 2.05,
+        "nasdaq_num_ests": 13,
+        "trend": {
+          "0q": {
+            "end_date": "2027-01-31",
+            "eps_est": 2.71822,
+            "num_eps_analysts": 23,
+            "rev_est_musd": 31884.12244,
+            "num_rev_analysts": 29
+          },
+          "+1q": {
+            "end_date": "2027-04-30",
+            "eps_est": 1.90721,
+            "num_eps_analysts": 21,
+            "rev_est_musd": 26295.43693,
+            "num_rev_analysts": 19
+          },
+          "0y": {
+            "end_date": "2027-01-31",
+            "eps_est": 10.68656,
+            "num_eps_analysts": 17,
+            "rev_est_musd": 110415.52265,
+            "num_rev_analysts": 34
+          },
+          "+1y": {
+            "end_date": "2028-01-31",
+            "eps_est": 9.61653,
+            "num_eps_analysts": 37,
+            "rev_est_musd": 114048.75897,
+            "num_rev_analysts": 37
+          }
+        },
+        "has_consensus": true
+      },
+      "NJR": {
+        "ticker": "NJR",
+        "name": "NewJersey Resources Corporation",
+        "session": "AMC",
+        "market_cap_usd": 5616250900.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 0.12,
+        "nasdaq_num_ests": 3,
+        "trend": {
+          "0q": {
+            "end_date": "2026-12-31",
+            "eps_est": 1.2325,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 577.3,
+            "num_rev_analysts": 1
+          },
+          "+1q": {
+            "end_date": "2027-03-31",
+            "eps_est": 1.885,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 941.3,
+            "num_rev_analysts": 1
+          },
+          "0y": {
+            "end_date": "2027-09-30",
+            "eps_est": 3.38156,
+            "num_eps_analysts": 8,
+            "rev_est_musd": 2163.52556,
+            "num_rev_analysts": 6
+          },
+          "+1y": {
+            "end_date": "2028-09-30",
+            "eps_est": 3.66811,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 2281.85146,
+            "num_rev_analysts": 6
+          }
+        },
+        "has_consensus": true
+      },
+      "LOW": {
+        "ticker": "LOW",
+        "name": "Lowe's Companies, Inc.",
+        "session": "BMO",
+        "market_cap_usd": 123689968000.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 2.86,
+        "nasdaq_num_ests": 11,
+        "trend": {
+          "0q": {
+            "end_date": "2027-01-31",
+            "eps_est": 1.97351,
+            "num_eps_analysts": 27,
+            "rev_est_musd": 20609.05743,
+            "num_rev_analysts": 14
+          },
+          "+1q": {
+            "end_date": "2027-04-30",
+            "eps_est": 3.11403,
+            "num_eps_analysts": 13,
+            "rev_est_musd": 23444.19533,
+            "num_rev_analysts": 12
+          },
+          "0y": {
+            "end_date": "2027-01-31",
+            "eps_est": 12.28853,
+            "num_eps_analysts": 31,
+            "rev_est_musd": 92192.8028,
+            "num_rev_analysts": 17
+          },
+          "+1y": {
+            "end_date": "2028-01-31",
+            "eps_est": 12.91466,
+            "num_eps_analysts": 31,
+            "rev_est_musd": 94108.36009,
+            "num_rev_analysts": 32
+          }
+        },
+        "has_consensus": true
+      },
+      "HP": {
+        "ticker": "HP",
+        "name": "Helmerich & Payne, Inc.",
+        "session": "AMC",
+        "market_cap_usd": 3593804540.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 0.21,
+        "nasdaq_num_ests": 8,
+        "trend": {
+          "0q": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.29729,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 1071.27215,
+            "num_rev_analysts": 7
+          },
+          "+1q": {
+            "end_date": "2027-03-31",
+            "eps_est": 0.34229,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 1052.55936,
+            "num_rev_analysts": 7
+          },
+          "0y": {
+            "end_date": "2027-09-30",
+            "eps_est": 1.5274,
+            "num_eps_analysts": 12,
+            "rev_est_musd": 4292.08115,
+            "num_rev_analysts": 13
+          },
+          "+1y": {
+            "end_date": "2028-09-30",
+            "eps_est": 2.20631,
+            "num_eps_analysts": 6,
+            "rev_est_musd": 4494.83186,
+            "num_rev_analysts": 9
+          }
+        },
+        "has_consensus": true
+      },
+      "WWD": {
+        "ticker": "WWD",
+        "name": "Woodward, Inc.",
+        "session": "AMC",
+        "market_cap_usd": 18288853000.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 2.5,
+        "nasdaq_num_ests": 3,
+        "trend": {
+          "0q": {
+            "end_date": "2026-12-31",
+            "eps_est": 2.35591,
+            "num_eps_analysts": 8,
+            "rev_est_musd": 1082.3403,
+            "num_rev_analysts": 9
+          },
+          "+1q": {
+            "end_date": "2027-03-31",
+            "eps_est": 2.63988,
+            "num_eps_analysts": 8,
+            "rev_est_musd": 1174.6254,
+            "num_rev_analysts": 9
+          },
+          "0y": {
+            "end_date": "2027-09-30",
+            "eps_est": 10.75003,
+            "num_eps_analysts": 11,
+            "rev_est_musd": 4719.53186,
+            "num_rev_analysts": 12
+          },
+          "+1y": {
+            "end_date": "2028-09-30",
+            "eps_est": 12.8509,
+            "num_eps_analysts": 9,
+            "rev_est_musd": 5190.06927,
+            "num_rev_analysts": 11
+          }
+        },
+        "has_consensus": true
+      },
+      "JJSF": {
+        "ticker": "JJSF",
+        "name": "J & J Snack Foods Corp.",
+        "session": "BMO",
+        "market_cap_usd": 1692553730.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 1.21,
+        "nasdaq_num_ests": 1,
+        "trend": {
+          "0q": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.14,
+            "num_eps_analysts": 1,
+            "rev_est_musd": 346.2,
+            "num_rev_analysts": 1
+          },
+          "+1q": {
+            "end_date": "2027-03-31",
+            "eps_est": 0.1,
+            "num_eps_analysts": 1,
+            "rev_est_musd": 350.8,
+            "num_rev_analysts": 1
+          },
+          "0y": {
+            "end_date": "2027-09-30",
+            "eps_est": 3.94,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 1544.15,
+            "num_rev_analysts": 4
+          },
+          "+1y": {
+            "end_date": "2028-09-30",
+            "eps_est": 4.33,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 1580.86667,
+            "num_rev_analysts": 3
+          }
+        },
+        "has_consensus": true
+      },
+      "UTI": {
+        "ticker": "UTI",
+        "name": "Universal Technical Institute Inc",
+        "session": "AMC",
+        "market_cap_usd": 1204381700.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 0.33,
+        "nasdaq_num_ests": 3,
+        "trend": {
+          "0q": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.152,
+            "num_eps_analysts": 5,
+            "rev_est_musd": 234.4868,
+            "num_rev_analysts": 5
+          },
+          "+1q": {
+            "end_date": "2027-03-31",
+            "eps_est": 0.082,
+            "num_eps_analysts": 5,
+            "rev_est_musd": 238.2648,
+            "num_rev_analysts": 5
+          },
+          "0y": {
+            "end_date": "2027-09-30",
+            "eps_est": 0.72,
+            "num_eps_analysts": 6,
+            "rev_est_musd": 969.15633,
+            "num_rev_analysts": 6
+          },
+          "+1y": {
+            "end_date": "2028-09-30",
+            "eps_est": 1.21667,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 1072.29567,
+            "num_rev_analysts": 3
+          }
+        },
+        "has_consensus": true
+      },
+      "SNEX": {
+        "ticker": "SNEX",
+        "name": "StoneX Group Inc.",
+        "session": "AMC",
+        "market_cap_usd": 6623065100.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 0.86,
+        "nasdaq_num_ests": 1,
+        "trend": {
+          "0q": {
+            "end_date": "2026-12-31",
+            "eps_est": 1.145,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 0.0,
+            "num_rev_analysts": 0
+          },
+          "+1q": {
+            "end_date": "2027-03-31",
+            "eps_est": 1.04,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 0.0,
+            "num_rev_analysts": 0
+          },
+          "0y": {
+            "end_date": "2027-09-30",
+            "eps_est": 4.73,
+            "num_eps_analysts": 1,
+            "rev_est_musd": 0.0,
+            "num_rev_analysts": 0
+          },
+          "+1y": {
+            "end_date": "2028-09-30",
+            "eps_est": 5.03,
+            "num_eps_analysts": 1,
+            "rev_est_musd": 0.0,
+            "num_rev_analysts": 0
+          }
+        },
+        "has_consensus": true
+      },
+      "BRBR": {
+        "ticker": "BRBR",
+        "name": "BellRing Brands, Inc.",
+        "session": "BMO",
+        "market_cap_usd": 1280222980.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 0.21,
+        "nasdaq_num_ests": 5,
+        "trend": {
+          "0q": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.41,
+            "num_eps_analysts": 1,
+            "rev_est_musd": 540.49398,
+            "num_rev_analysts": 8
+          },
+          "+1q": {
+            "end_date": "2027-03-31",
+            "eps_est": 0.26,
+            "num_eps_analysts": 1,
+            "rev_est_musd": 599.31393,
+            "num_rev_analysts": 8
+          },
+          "0y": {
+            "end_date": "2027-09-30",
+            "eps_est": 1.32025,
+            "num_eps_analysts": 8,
+            "rev_est_musd": 2384.21799,
+            "num_rev_analysts": 15
+          },
+          "+1y": {
+            "end_date": "2028-09-30",
+            "eps_est": 1.50799,
+            "num_eps_analysts": 8,
+            "rev_est_musd": 2474.70037,
+            "num_rev_analysts": 9
+          }
+        },
+        "has_consensus": true
+      },
+      "BORR": {
+        "ticker": "BORR",
+        "name": "Borr Drilling Limited",
+        "session": "AMC",
+        "market_cap_usd": 978489410.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": -0.11,
+        "nasdaq_num_ests": 1,
+        "trend": {
+          "0q": {
+            "end_date": "2026-12-31",
+            "eps_est": -0.07714,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 248.51943,
+            "num_rev_analysts": 5
+          },
+          "+1q": {
+            "end_date": "2027-03-31",
+            "eps_est": 0.0046,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 292.22544,
+            "num_rev_analysts": 4
+          },
+          "0y": {
+            "end_date": "2026-12-31",
+            "eps_est": -0.76024,
+            "num_eps_analysts": 6,
+            "rev_est_musd": 981.46808,
+            "num_rev_analysts": 7
+          },
+          "+1y": {
+            "end_date": "2027-12-31",
+            "eps_est": -0.02195,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 1149.65908,
+            "num_rev_analysts": 7
+          }
+        },
+        "has_consensus": true
+      },
+      "CRNC": {
+        "ticker": "CRNC",
+        "name": "Cerence Inc.",
+        "session": "TBD",
+        "market_cap_usd": 322491744.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 0.03,
+        "nasdaq_num_ests": 1,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 0.22,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 63.8306,
+            "num_rev_analysts": 5
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.145,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 69.7916,
+            "num_rev_analysts": 5
+          },
+          "0y": {
+            "end_date": "2026-09-30",
+            "eps_est": 0.7325,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 312.6836,
+            "num_rev_analysts": 5
+          },
+          "+1y": {
+            "end_date": "2027-09-30",
+            "eps_est": 0.785,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 288.91,
+            "num_rev_analysts": 5
+          }
+        },
+        "has_consensus": true
+      },
+      "GLNG": {
+        "ticker": "GLNG",
+        "name": "Golar LNG Limited",
+        "session": "BMO",
+        "market_cap_usd": 4260653820.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": -0.01,
+        "nasdaq_num_ests": 2,
+        "trend": {
+          "0q": {
+            "end_date": "2026-12-31",
+            "eps_est": -0.07653,
+            "num_eps_analysts": 5,
+            "rev_est_musd": 74.7062,
+            "num_rev_analysts": 5
+          },
+          "+1q": {
+            "end_date": "2027-03-31",
+            "eps_est": -0.10067,
+            "num_eps_analysts": 5,
+            "rev_est_musd": 73.33933,
+            "num_rev_analysts": 3
+          },
+          "0y": {
+            "end_date": "2026-12-31",
+            "eps_est": 1.15984,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 433.6305,
+            "num_rev_analysts": 2
+          },
+          "+1y": {
+            "end_date": "2027-12-31",
+            "eps_est": 0.78991,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 429.29533,
+            "num_rev_analysts": 6
+          }
+        },
+        "has_consensus": true
+      },
+      "KLIC": {
+        "ticker": "KLIC",
+        "name": "Kulicke and Soffa Industries, Inc.",
+        "session": "AMC",
+        "market_cap_usd": 3427557120.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 1.31,
+        "nasdaq_num_ests": 2,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 1.43,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 376.8,
+            "num_rev_analysts": 3
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 1.43333,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 373.3,
+            "num_rev_analysts": 3
+          },
+          "0y": {
+            "end_date": "2026-09-30",
+            "eps_est": 3.86333,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 1149.5,
+            "num_rev_analysts": 3
+          },
+          "+1y": {
+            "end_date": "2027-09-30",
+            "eps_est": 5.90333,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 1516.93333,
+            "num_rev_analysts": 3
+          }
+        },
+        "has_consensus": true
+      },
+      "BLSH": {
+        "ticker": "BLSH",
+        "name": "Bullish",
+        "session": "BMO",
+        "market_cap_usd": 3076286460.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 0.08,
+        "nasdaq_num_ests": 4,
+        "trend": {
+          "0q": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.15558,
+            "num_eps_analysts": 9,
+            "rev_est_musd": 91.52488,
+            "num_rev_analysts": 11
+          },
+          "+1q": {
+            "end_date": "2027-03-31",
+            "eps_est": 0.1544,
+            "num_eps_analysts": 6,
+            "rev_est_musd": 97.14825,
+            "num_rev_analysts": 9
+          },
+          "0y": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.46386,
+            "num_eps_analysts": 10,
+            "rev_est_musd": 356.80357,
+            "num_rev_analysts": 11
+          },
+          "+1y": {
+            "end_date": "2027-12-31",
+            "eps_est": 3.02,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 406.66239,
+            "num_rev_analysts": 10
+          }
+        },
+        "has_consensus": true
+      }
+    }
+  },
+  "2026-11-19": {
+    "et_date": "2026-11-19",
+    "built_at_kst": "2026-11-19 16:25:31",
+    "total_matched": 21,
+    "with_consensus": 21,
+    "items": {
+      "ROAD": {
+        "ticker": "ROAD",
+        "name": "Construction Partners, Inc.",
+        "session": "BMO",
+        "market_cap_usd": 4517672400.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 1.0,
+        "nasdaq_num_ests": 2,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 1.03167,
+            "num_eps_analysts": 6,
+            "rev_est_musd": 1089.9375,
+            "num_rev_analysts": 7
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.31833,
+            "num_eps_analysts": 6,
+            "rev_est_musd": 929.9264,
+            "num_rev_analysts": 5
+          },
+          "0y": {
+            "end_date": "2026-09-30",
+            "eps_est": 2.74,
+            "num_eps_analysts": 6,
+            "rev_est_musd": 3668.00164,
+            "num_rev_analysts": 7
+          },
+          "+1y": {
+            "end_date": "2027-09-30",
+            "eps_est": 3.19857,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 4159.438,
+            "num_rev_analysts": 7
+          }
+        },
+        "has_consensus": true
+      },
+      "ESE": {
+        "ticker": "ESE",
+        "name": "ESCO Technologies Inc.",
+        "session": "AMC",
+        "market_cap_usd": 7114065900.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 2.59,
+        "nasdaq_num_ests": 3,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 2.59668,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 375.6046,
+            "num_rev_analysts": 4
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 1.79446,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 361.57642,
+            "num_rev_analysts": 3
+          },
+          "0y": {
+            "end_date": "2026-09-30",
+            "eps_est": 8.36557,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 1313.62771,
+            "num_rev_analysts": 4
+          },
+          "+1y": {
+            "end_date": "2027-09-30",
+            "eps_est": 9.22254,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 1716.84862,
+            "num_rev_analysts": 4
+          }
+        },
+        "has_consensus": true
+      },
+      "GAP": {
+        "ticker": "GAP",
+        "name": "Gap, Inc. (The)",
+        "session": "AMC",
+        "market_cap_usd": 6797077000.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 0.76,
+        "nasdaq_num_ests": 6,
+        "trend": {
+          "0q": {
+            "end_date": "2026-10-31",
+            "eps_est": 0.7803,
+            "num_eps_analysts": 17,
+            "rev_est_musd": 4013.6974,
+            "num_rev_analysts": 16
+          },
+          "+1q": {
+            "end_date": "2027-01-31",
+            "eps_est": 0.71473,
+            "num_eps_analysts": 17,
+            "rev_est_musd": 4367.40674,
+            "num_rev_analysts": 16
+          },
+          "0y": {
+            "end_date": "2027-01-31",
+            "eps_est": 2.3968,
+            "num_eps_analysts": 20,
+            "rev_est_musd": 15531.9386,
+            "num_rev_analysts": 20
+          },
+          "+1y": {
+            "end_date": "2028-01-31",
+            "eps_est": 2.61604,
+            "num_eps_analysts": 21,
+            "rev_est_musd": 15986.82999,
+            "num_rev_analysts": 20
+          }
+        },
+        "has_consensus": true
+      },
+      "WSM": {
+        "ticker": "WSM",
+        "name": "Williams-Sonoma, Inc.",
+        "session": "BMO",
+        "market_cap_usd": 29450682400.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 2.18,
+        "nasdaq_num_ests": 11,
+        "trend": {
+          "0q": {
+            "end_date": "2026-10-31",
+            "eps_est": 2.212,
+            "num_eps_analysts": 10,
+            "rev_est_musd": 1999.82605,
+            "num_rev_analysts": 19
+          },
+          "+1q": {
+            "end_date": "2027-01-31",
+            "eps_est": 3.298,
+            "num_eps_analysts": 10,
+            "rev_est_musd": 2515.16664,
+            "num_rev_analysts": 19
+          },
+          "0y": {
+            "end_date": "2027-01-31",
+            "eps_est": 10.28143,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 8278.32658,
+            "num_rev_analysts": 21
+          },
+          "+1y": {
+            "end_date": "2028-01-31",
+            "eps_est": 10.54167,
+            "num_eps_analysts": 12,
+            "rev_est_musd": 8717.87637,
+            "num_rev_analysts": 21
+          }
+        },
+        "has_consensus": true
+      },
+      "WMT": {
+        "ticker": "WMT",
+        "name": "Walmart Inc.",
+        "session": "BMO",
+        "market_cap_usd": 1011711340000.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 0.64,
+        "nasdaq_num_ests": 13,
+        "trend": {
+          "0q": {
+            "end_date": "2026-10-31",
+            "eps_est": 0.63627,
+            "num_eps_analysts": 36,
+            "rev_est_musd": 187254.27474,
+            "num_rev_analysts": 29
+          },
+          "+1q": {
+            "end_date": "2027-01-31",
+            "eps_est": 0.78646,
+            "num_eps_analysts": 36,
+            "rev_est_musd": 200283.59987,
+            "num_rev_analysts": 29
+          },
+          "0y": {
+            "end_date": "2027-01-31",
+            "eps_est": 2.88679,
+            "num_eps_analysts": 40,
+            "rev_est_musd": 752840.36121,
+            "num_rev_analysts": 37
+          },
+          "+1y": {
+            "end_date": "2028-01-31",
+            "eps_est": 3.2283,
+            "num_eps_analysts": 43,
+            "rev_est_musd": 785009.16268,
+            "num_rev_analysts": 36
+          }
+        },
+        "has_consensus": true
+      },
+      "PDD": {
+        "ticker": "PDD",
+        "name": "PDD Holdings Inc.",
+        "session": "BMO",
+        "market_cap_usd": 110156653000.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 2.61,
+        "nasdaq_num_ests": 2,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 18.84143,
+            "num_eps_analysts": 11,
+            "rev_est_musd": 115509.31914,
+            "num_rev_analysts": 13
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 20.27226,
+            "num_eps_analysts": 9,
+            "rev_est_musd": 131371.45151,
+            "num_rev_analysts": 10
+          },
+          "0y": {
+            "end_date": "2026-12-31",
+            "eps_est": 68.34865,
+            "num_eps_analysts": 28,
+            "rev_est_musd": 465612.09015,
+            "num_rev_analysts": 32
+          },
+          "+1y": {
+            "end_date": "2027-12-31",
+            "eps_est": 82.47836,
+            "num_eps_analysts": 29,
+            "rev_est_musd": 516249.40064,
+            "num_rev_analysts": 35
+          }
+        },
+        "has_consensus": true
+      },
+      "ROST": {
+        "ticker": "ROST",
+        "name": "Ross Stores, Inc.",
+        "session": "AMC",
+        "market_cap_usd": 70423437000.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 1.85,
+        "nasdaq_num_ests": 7,
+        "trend": {
+          "0q": {
+            "end_date": "2026-10-31",
+            "eps_est": 1.8687,
+            "num_eps_analysts": 12,
+            "rev_est_musd": 6256.98492,
+            "num_rev_analysts": 16
+          },
+          "+1q": {
+            "end_date": "2027-01-31",
+            "eps_est": 2.27391,
+            "num_eps_analysts": 11,
+            "rev_est_musd": 7226.28411,
+            "num_rev_analysts": 15
+          },
+          "0y": {
+            "end_date": "2027-01-31",
+            "eps_est": 8.83193,
+            "num_eps_analysts": 12,
+            "rev_est_musd": 25755.40579,
+            "num_rev_analysts": 19
+          },
+          "+1y": {
+            "end_date": "2028-01-31",
+            "eps_est": 9.00846,
+            "num_eps_analysts": 13,
+            "rev_est_musd": 27553.44738,
+            "num_rev_analysts": 19
+          }
+        },
+        "has_consensus": true
+      },
+      "INTU": {
+        "ticker": "INTU",
+        "name": "Intuit Inc.",
+        "session": "AMC",
+        "market_cap_usd": 85726634000.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 2.47,
+        "nasdaq_num_ests": 9,
+        "trend": {
+          "0q": {
+            "end_date": "2026-10-31",
+            "eps_est": 2.6409,
+            "num_eps_analysts": 26,
+            "rev_est_musd": 4305.8259,
+            "num_rev_analysts": 23
+          },
+          "+1q": {
+            "end_date": "2027-01-31",
+            "eps_est": 3.93521,
+            "num_eps_analysts": 26,
+            "rev_est_musd": 5111.181,
+            "num_rev_analysts": 23
+          },
+          "0y": {
+            "end_date": "2027-07-31",
+            "eps_est": 23.80984,
+            "num_eps_analysts": 32,
+            "rev_est_musd": 23410.766,
+            "num_rev_analysts": 29
+          },
+          "+1y": {
+            "end_date": "2028-07-31",
+            "eps_est": 26.91866,
+            "num_eps_analysts": 31,
+            "rev_est_musd": 25496.14658,
+            "num_rev_analysts": 28
+          }
+        },
+        "has_consensus": true
+      },
+      "KEYS": {
+        "ticker": "KEYS",
+        "name": "Keysight Technologies Inc.",
+        "session": "AMC",
+        "market_cap_usd": 48426119000.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 3.09,
+        "nasdaq_num_ests": 2,
+        "trend": {
+          "0q": {
+            "end_date": "2026-10-31",
+            "eps_est": 3.38038,
+            "num_eps_analysts": 12,
+            "rev_est_musd": 1949.52298,
+            "num_rev_analysts": 10
+          },
+          "+1q": {
+            "end_date": "2027-01-31",
+            "eps_est": 3.25082,
+            "num_eps_analysts": 11,
+            "rev_est_musd": 1976.80881,
+            "num_rev_analysts": 8
+          },
+          "0y": {
+            "end_date": "2026-10-31",
+            "eps_est": 11.49972,
+            "num_eps_analysts": 11,
+            "rev_est_musd": 7115.27201,
+            "num_rev_analysts": 11
+          },
+          "+1y": {
+            "end_date": "2027-10-31",
+            "eps_est": 13.93384,
+            "num_eps_analysts": 12,
+            "rev_est_musd": 8209.98838,
+            "num_rev_analysts": 11
+          }
+        },
+        "has_consensus": true
+      },
+      "BBWI": {
+        "ticker": "BBWI",
+        "name": "Bath & Body Works, Inc.",
+        "session": "BMO",
+        "market_cap_usd": 3710273790.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 0.12,
+        "nasdaq_num_ests": 9,
+        "trend": {
+          "0q": {
+            "end_date": "2026-10-31",
+            "eps_est": 0.1194,
+            "num_eps_analysts": 17,
+            "rev_est_musd": 1550.26054,
+            "num_rev_analysts": 15
+          },
+          "+1q": {
+            "end_date": "2027-01-31",
+            "eps_est": 1.72359,
+            "num_eps_analysts": 17,
+            "rev_est_musd": 2666.06061,
+            "num_rev_analysts": 15
+          },
+          "0y": {
+            "end_date": "2027-01-31",
+            "eps_est": 2.70782,
+            "num_eps_analysts": 18,
+            "rev_est_musd": 7107.41764,
+            "num_rev_analysts": 16
+          },
+          "+1y": {
+            "end_date": "2028-01-31",
+            "eps_est": 2.78966,
+            "num_eps_analysts": 18,
+            "rev_est_musd": 7228.29324,
+            "num_rev_analysts": 16
+          }
+        },
+        "has_consensus": true
+      },
+      "POST": {
+        "ticker": "POST",
+        "name": "Post Holdings, Inc.",
+        "session": "AMC",
+        "market_cap_usd": 3530171140.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 1.66,
+        "nasdaq_num_ests": 2,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 1.77285,
+            "num_eps_analysts": 6,
+            "rev_est_musd": 1998.78167,
+            "num_rev_analysts": 6
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 1.585,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 2007.36,
+            "num_rev_analysts": 3
+          },
+          "0y": {
+            "end_date": "2026-09-30",
+            "eps_est": 7.64492,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 8164.46575,
+            "num_rev_analysts": 6
+          },
+          "+1y": {
+            "end_date": "2027-09-30",
+            "eps_est": 7.11363,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 7949.79503,
+            "num_rev_analysts": 6
+          }
+        },
+        "has_consensus": true
+      },
+      "MMS": {
+        "ticker": "MMS",
+        "name": "Maximus, Inc.",
+        "session": "BMO",
+        "market_cap_usd": 3371316480.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 1.88,
+        "nasdaq_num_ests": 3,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 1.85,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 1296.6725,
+            "num_rev_analysts": 2
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 1.92,
+            "num_eps_analysts": 1,
+            "rev_est_musd": 1408.967,
+            "num_rev_analysts": 1
+          },
+          "0y": {
+            "end_date": "2026-09-30",
+            "eps_est": 8.01,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 5226.5,
+            "num_rev_analysts": 2
+          },
+          "+1y": {
+            "end_date": "2027-09-30",
+            "eps_est": 8.36,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 5377.5,
+            "num_rev_analysts": 2
+          }
+        },
+        "has_consensus": true
+      },
+      "ESTC": {
+        "ticker": "ESTC",
+        "name": "Elastic N.V.",
+        "session": "AMC",
+        "market_cap_usd": 8519746000.0,
+        "fiscal_quarter_ending": "Oct/2026",
+        "nasdaq_eps_forecast": 0.14,
+        "nasdaq_num_ests": 7,
+        "trend": {
+          "0q": {
+            "end_date": "2026-10-31",
+            "eps_est": 0.80952,
+            "num_eps_analysts": 27,
+            "rev_est_musd": 486.76611,
+            "num_rev_analysts": 25
+          },
+          "+1q": {
+            "end_date": "2027-01-31",
+            "eps_est": 0.95366,
+            "num_eps_analysts": 26,
+            "rev_est_musd": 517.55985,
+            "num_rev_analysts": 25
+          },
+          "0y": {
+            "end_date": "2027-04-30",
+            "eps_est": 3.36138,
+            "num_eps_analysts": 28,
+            "rev_est_musd": 2005.16048,
+            "num_rev_analysts": 27
+          },
+          "+1y": {
+            "end_date": "2028-04-30",
+            "eps_est": 3.97542,
+            "num_eps_analysts": 28,
+            "rev_est_musd": 2300.67101,
+            "num_rev_analysts": 28
+          }
+        },
+        "has_consensus": true
+      },
+      "HUBG": {
+        "ticker": "HUBG",
+        "name": "Hub Group, Inc.",
+        "session": "TBD",
+        "market_cap_usd": 1497037950.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 0.26,
+        "nasdaq_num_ests": 3,
+        "trend": {
+          "0q": {
+            "end_date": "2025-12-31",
+            "eps_est": 0.4219,
+            "num_eps_analysts": 6,
+            "rev_est_musd": 918.73763,
+            "num_rev_analysts": 6
+          },
+          "+1q": {
+            "end_date": "2026-03-31",
+            "eps_est": 0.43698,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 862.78067,
+            "num_rev_analysts": 4
+          },
+          "0y": {
+            "end_date": "2025-12-31",
+            "eps_est": 1.8037,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 3675.42785,
+            "num_rev_analysts": 8
+          },
+          "+1y": {
+            "end_date": "2026-12-31",
+            "eps_est": 2.16051,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 3735.24649,
+            "num_rev_analysts": 8
+          }
+        },
+        "has_consensus": true
+      },
+      "LQDT": {
+        "ticker": "LQDT",
+        "name": "Liquidity Services, Inc.",
+        "session": "BMO",
+        "market_cap_usd": 1367625090.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 0.34,
+        "nasdaq_num_ests": 2,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 0.445,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 0.0,
+            "num_rev_analysts": 0
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.43,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 0.0,
+            "num_rev_analysts": 0
+          },
+          "0y": {
+            "end_date": "2026-09-30",
+            "eps_est": 1.65,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 0.0,
+            "num_rev_analysts": 0
+          },
+          "+1y": {
+            "end_date": "2027-09-30",
+            "eps_est": 1.84,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 0.0,
+            "num_rev_analysts": 0
+          }
+        },
+        "has_consensus": true
+      },
+      "BULL": {
+        "ticker": "BULL",
+        "name": "Webull Corporation",
+        "session": "AMC",
+        "market_cap_usd": 2557376260.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 0.05,
+        "nasdaq_num_ests": 2,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 0.065,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 215.58867,
+            "num_rev_analysts": 3
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.075,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 225.54167,
+            "num_rev_analysts": 3
+          },
+          "0y": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.235,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 806.1875,
+            "num_rev_analysts": 4
+          },
+          "+1y": {
+            "end_date": "2027-12-31",
+            "eps_est": 0.31,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 981.70225,
+            "num_rev_analysts": 4
+          }
+        },
+        "has_consensus": true
+      },
+      "QUIT": {
+        "ticker": "QUIT",
+        "name": "Achieve Life Sciences, Inc.",
+        "session": "TBD",
+        "market_cap_usd": 673410880.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": -0.19,
+        "nasdaq_num_ests": 5,
+        "trend": {
+          "0q": {
+            "end_date": "2026-12-31",
+            "eps_est": -0.21714,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 0.0,
+            "num_rev_analysts": 8
+          },
+          "+1q": {
+            "end_date": "2027-03-31",
+            "eps_est": -0.18143,
+            "num_eps_analysts": 7,
+            "rev_est_musd": 2.2042,
+            "num_rev_analysts": 5
+          },
+          "0y": {
+            "end_date": "2026-12-31",
+            "eps_est": -1.3425,
+            "num_eps_analysts": 4,
+            "rev_est_musd": 0.0,
+            "num_rev_analysts": 8
+          },
+          "+1y": {
+            "end_date": "2027-12-31",
+            "eps_est": -0.68364,
+            "num_eps_analysts": 11,
+            "rev_est_musd": 32.27975,
+            "num_rev_analysts": 9
+          }
+        },
+        "has_consensus": true
+      },
+      "NGVC": {
+        "ticker": "NGVC",
+        "name": "Natural Grocers by Vitamin Cottage, Inc.",
+        "session": "AMC",
+        "market_cap_usd": 652896450.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": null,
+        "nasdaq_num_ests": 0,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 0.56333,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 352.64564,
+            "num_rev_analysts": 4
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.55,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 349.93149,
+            "num_rev_analysts": 3
+          },
+          "0y": {
+            "end_date": "2026-09-30",
+            "eps_est": 2.10667,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 1360.34264,
+            "num_rev_analysts": 4
+          },
+          "+1y": {
+            "end_date": "2027-09-30",
+            "eps_est": 2.32333,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 1435.46402,
+            "num_rev_analysts": 4
+          }
+        },
+        "has_consensus": true
+      },
+      "MATW": {
+        "ticker": "MATW",
+        "name": "Matthews International Corporation",
+        "session": "AMC",
+        "market_cap_usd": 579160450.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 0.27,
+        "nasdaq_num_ests": 3,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 0.26667,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 252.72967,
+            "num_rev_analysts": 3
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.055,
+            "num_eps_analysts": 2,
+            "rev_est_musd": 247.361,
+            "num_rev_analysts": 2
+          },
+          "0y": {
+            "end_date": "2026-09-30",
+            "eps_est": 0.51333,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 1042.12833,
+            "num_rev_analysts": 3
+          },
+          "+1y": {
+            "end_date": "2027-09-30",
+            "eps_est": 0.78333,
+            "num_eps_analysts": 3,
+            "rev_est_musd": 1024.873,
+            "num_rev_analysts": 3
+          }
+        },
+        "has_consensus": true
+      },
+      "VVV": {
+        "ticker": "VVV",
+        "name": "Valvoline Inc.",
+        "session": "BMO",
+        "market_cap_usd": 4218007040.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 0.42,
+        "nasdaq_num_ests": 4,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 0.42262,
+            "num_eps_analysts": 15,
+            "rev_est_musd": 568.26525,
+            "num_rev_analysts": 13
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 0.34661,
+            "num_eps_analysts": 12,
+            "rev_est_musd": 540.40278,
+            "num_rev_analysts": 11
+          },
+          "0y": {
+            "end_date": "2026-09-30",
+            "eps_est": 1.76388,
+            "num_eps_analysts": 16,
+            "rev_est_musd": 2079.29341,
+            "num_rev_analysts": 14
+          },
+          "+1y": {
+            "end_date": "2027-09-30",
+            "eps_est": 1.95847,
+            "num_eps_analysts": 16,
+            "rev_est_musd": 2320.55763,
+            "num_rev_analysts": 14
+          }
+        },
+        "has_consensus": true
+      },
+      "GLOB": {
+        "ticker": "GLOB",
+        "name": "Globant S.A.",
+        "session": "AMC",
+        "market_cap_usd": 1840744450.0,
+        "fiscal_quarter_ending": "Sep/2026",
+        "nasdaq_eps_forecast": 1.13,
+        "nasdaq_num_ests": 6,
+        "trend": {
+          "0q": {
+            "end_date": "2026-09-30",
+            "eps_est": 1.4764,
+            "num_eps_analysts": 16,
+            "rev_est_musd": 610.73172,
+            "num_rev_analysts": 17
+          },
+          "+1q": {
+            "end_date": "2026-12-31",
+            "eps_est": 1.52307,
+            "num_eps_analysts": 15,
+            "rev_est_musd": 610.19572,
+            "num_rev_analysts": 16
+          },
+          "0y": {
+            "end_date": "2026-12-31",
+            "eps_est": 5.90764,
+            "num_eps_analysts": 21,
+            "rev_est_musd": 2445.19692,
+            "num_rev_analysts": 23
+          },
+          "+1y": {
+            "end_date": "2027-12-31",
+            "eps_est": 6.15181,
+            "num_eps_analysts": 21,
+            "rev_est_musd": 2491.40501,
+            "num_rev_analysts": 23
+          }
+        },
+        "has_consensus": true
+      }
+    }
+  }
+}
