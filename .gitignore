@@ -1,0 +1,7 @@
+us_earnings_config.json
+cache/
+__pycache__/
+*.pyc
+*.lock
+*.log
+.env
